@@ -40,9 +40,7 @@ body {
     background-color: #4CAF50;
     color: white;
   }
-   button {
-    background-color: #45a049;
-  }
+  
   .btn-clear {
     background-color: #f44336;
  grid-column: span 4;

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.todoListContainer{
+    width: 350px;
+    border: 2px solid gray;
+    background-color: red;
+    border-radius: 12px;
+}
+.heading{
+    text-align: center;
+}
+input{
+    height: 35px;
+    border: none;
+    border-radius: 6px;
+}
+.add-task-btn{
+    height: 35px;
+}
